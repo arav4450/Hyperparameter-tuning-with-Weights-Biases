@@ -1,1 +1,2 @@
 # Hyperparameter-tuning-with-Weights-Biases
+Experiment management refers to tools and processes that help us keep track of code, model parameters, and data sets that are iterated on during the model development lifecycle. Such tools are essential to effective model development. Weights and Biases is one such tool. This repository contains a basic example of hyperparameter tuning with Weights & Biases. The results can be viewed by logging into https://wandb.ai/site. The data set used for this experiment is https://paperswithcode.com/dataset/inaturalist.
